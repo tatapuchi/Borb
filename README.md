@@ -1,17 +1,19 @@
 # Borb
 A restrictive open source software license.
 
+---
+
 ### Permissions
 
 - Modification
 - Private Use
 - Distribution
 
-## Conditions
+### Conditions
 - Only derivative works may be distributed
 
 
-## Limitations
+### Limitations
 - Liability
 - Warranty
 - Trademark Use

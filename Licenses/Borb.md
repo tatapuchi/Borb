@@ -9,6 +9,6 @@
 
                                         TERMS AND CONDITIONS FOR COPYING, DISTRIBUTION AND MODIFICATION
                                
-    Definitions
+    Definitions:
     
     "Source"

@@ -1,5 +1,5 @@
 # Borb
-A restrictive open source software license.
+A restrictive open source software license designed for applications and games.
 
 ---
 
